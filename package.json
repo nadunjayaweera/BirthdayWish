@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nadunjayaweera/BirthdayWish.git"
+    "url": "git+https://github.com/nadunjayaweera/Yohan-Birthday.git"
   },
   "keywords": [
     "Happy",
@@ -26,8 +26,8 @@
   "author": "Afiur Rahman Fahim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/faahim/happy-birthday/issues"
+    "url": "https://github.com/nadunjayaweera/Yohan-Birthday/issues"
   },
-  "homepage": "https://github.com/nadunjayaweera/BirthdayWish#readme",
+  "homepage": "https://github.com/nadunjayaweera/Yohan-Birthday#readme",
   "dependencies": {}
 }
